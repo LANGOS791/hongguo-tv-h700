@@ -1,0 +1,9 @@
+{
+  "version": "0.3.0",
+  "core_version": "0.3.0-h700",
+  "url": "https://github.com/LANGOS791/hongguo-tv-h700/releases/download/v0.3.0/hongguo-tv-h700-stable.zip",
+  "sha256": "729f3271919a0e4e2853d3b8f9002c68bcdc20357db2f68cd7f4f3d3ece5bb11",
+  "size": 8653725,
+  "notes": "稳定版：按 MP4 stts/stsz 分段时间线限速，8 秒预读；不锁 720P，1080P-only 片源也能 30fps。",
+  "min_free_kb": 20000
+}
